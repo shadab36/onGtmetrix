@@ -1155,7 +1155,7 @@ public static String actualTitle;
 	}
 // write get text value in excel sheet
 public void putDataInExcel(int row) throws Exception {
-	File src = new File("F:\\ECOM_DemoTest\\onGtmetrix\\LoatResult.xlsx");
+	File src = new File("F:\\jenkins latest\\workspace\\loaded result test data put on excel\\LoatResult.xlsx");
 	String cellValue[] = {location, speedtime};
 	int count = 0;
 	FileInputStream fis = new FileInputStream(src);
