@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="160.840623">
+<testcase classname="Load Test On gtmetrix" name="" time="13.384924">
+<system-out><![CDATA[Given Navigate to the website url...........................................passed
+Then Click on the Login button..............................................passed
+Then Enter user email address "test.shadab@gmail.com".......................passed
+Then Insert the user Password "shadab@123"..................................passed
+Then Click on Login.........................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Load Test On gtmetrix" name="_2" time="77.680789">
+<system-out><![CDATA[Then Fills the Analyze Performance of app "https://slideteam.net"...........passed
+Then click on Analyze cta...................................................passed
+Then Get fully loaded Time,location and title URL...........................passed
+Then After Analyze the app see result for Vancouver, Canada.................passed
+Then write time on location in excelsheet...................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Load Test On gtmetrix" name="_3" time="69.77491">
+<system-out><![CDATA[Given Navigate to the website url...........................................passed
+Then Fills the Analyze Performance of app "https://slideteam.net"...........passed
+Then Select the USA country.................................................passed
+Then click on Analyze cta...................................................passed
+Then Get fully loaded Time,location and title URL...........................passed
+Then After Analyze the app see result for Dallas, USA.......................passed
+Then write location in excelsheet...........................................passed
+]]></system-out>
+</testcase>
+</testsuite>

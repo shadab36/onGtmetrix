@@ -1,0 +1,252 @@
+[
+  {
+    "source": "^Select the USA country\\.$",
+    "steps": [
+      {
+        "name": "Select the USA country.",
+        "aggregatedDurations": {
+          "average": 0.6652553,
+          "median": 0.6652553
+        },
+        "durations": [
+          {
+            "duration": 0.6652553,
+            "location": "src/test/resources/HomePageTest.feature:24"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^write location in excelsheet\\.$",
+    "steps": [
+      {
+        "name": "write location in excelsheet.",
+        "aggregatedDurations": {
+          "average": 0.18061,
+          "median": 0.18061
+        },
+        "durations": [
+          {
+            "duration": 0.18061,
+            "location": "src/test/resources/HomePageTest.feature:28"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Insert the user Password \"([^\"]*)\"\\.$",
+    "steps": [
+      {
+        "name": "Insert the user Password \"shadab@123\".",
+        "aggregatedDurations": {
+          "average": 0.2287563,
+          "median": 0.2287563
+        },
+        "durations": [
+          {
+            "duration": 0.2287563,
+            "location": "src/test/resources/HomePageTest.feature:8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^After Analyze the app see result for Vancouver, Canada\\.$",
+    "steps": [
+      {
+        "name": "After Analyze the app see result for Vancouver, Canada.",
+        "aggregatedDurations": {
+          "average": 0.0021911,
+          "median": 0.0021911
+        },
+        "durations": [
+          {
+            "duration": 0.0021911,
+            "location": "src/test/resources/HomePageTest.feature:14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Click on Login\\.$",
+    "steps": [
+      {
+        "name": "Click on Login.",
+        "aggregatedDurations": {
+          "average": 2.133843801,
+          "median": 2.133843801
+        },
+        "durations": [
+          {
+            "duration": 2.133843801,
+            "location": "src/test/resources/HomePageTest.feature:9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^click on Analyze cta\\.$",
+    "steps": [
+      {
+        "name": "click on Analyze cta.",
+        "aggregatedDurations": {
+          "average": 64.51037125,
+          "median": 64.51037125
+        },
+        "durations": [
+          {
+            "duration": 65.9710785,
+            "location": "src/test/resources/HomePageTest.feature:12"
+          },
+          {
+            "duration": 63.049664,
+            "location": "src/test/resources/HomePageTest.feature:25"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Get fully loaded Time,location and title URL\\.$",
+    "steps": [
+      {
+        "name": "Get fully loaded Time,location and title URL.",
+        "aggregatedDurations": {
+          "average": 0.1726496,
+          "median": 0.1726496
+        },
+        "durations": [
+          {
+            "duration": 0.1608839,
+            "location": "src/test/resources/HomePageTest.feature:13"
+          },
+          {
+            "duration": 0.1844153,
+            "location": "src/test/resources/HomePageTest.feature:26"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^write time on location in excelsheet\\.$",
+    "steps": [
+      {
+        "name": "write time on location in excelsheet.",
+        "aggregatedDurations": {
+          "average": 1.042490399,
+          "median": 1.042490399
+        },
+        "durations": [
+          {
+            "duration": 1.042490399,
+            "location": "src/test/resources/HomePageTest.feature:15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Enter user email address \"([^\"]*)\"\\.$",
+    "steps": [
+      {
+        "name": "Enter user email address \"test.shadab@gmail.com\".",
+        "aggregatedDurations": {
+          "average": 0.3351154,
+          "median": 0.3351154
+        },
+        "durations": [
+          {
+            "duration": 0.3351154,
+            "location": "src/test/resources/HomePageTest.feature:7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Click on the Login button\\.$",
+    "steps": [
+      {
+        "name": "Click on the Login button.",
+        "aggregatedDurations": {
+          "average": 1.1904271,
+          "median": 1.1904271
+        },
+        "durations": [
+          {
+            "duration": 1.1904271,
+            "location": "src/test/resources/HomePageTest.feature:6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Fills the Analyze Performance of app \"([^\"]*)\"\\.$",
+    "steps": [
+      {
+        "name": "Fills the Analyze Performance of app \"https://slideteam.net\".",
+        "aggregatedDurations": {
+          "average": 5.930940399,
+          "median": 5.930940399
+        },
+        "durations": [
+          {
+            "duration": 10.5040938,
+            "location": "src/test/resources/HomePageTest.feature:11"
+          },
+          {
+            "duration": 1.357786999,
+            "location": "src/test/resources/HomePageTest.feature:23"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Navigate to the website url\\.$",
+    "steps": [
+      {
+        "name": "Navigate to the website url.",
+        "aggregatedDurations": {
+          "average": 6.914800699,
+          "median": 6.914800699
+        },
+        "durations": [
+          {
+            "duration": 9.496122899,
+            "location": "src/test/resources/HomePageTest.feature:5"
+          },
+          {
+            "duration": 4.3334785,
+            "location": "src/test/resources/HomePageTest.feature:22"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^After Analyze the app see result for Dallas, USA\\.$",
+    "steps": [
+      {
+        "name": "After Analyze the app see result for Dallas, USA.",
+        "aggregatedDurations": {
+          "average": 0.0036456,
+          "median": 0.0036456
+        },
+        "durations": [
+          {
+            "duration": 0.0036456,
+            "location": "src/test/resources/HomePageTest.feature:27"
+          }
+        ]
+      }
+    ]
+  }
+]
