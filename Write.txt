@@ -1,6 +1,0 @@
-Get Current location from the home page= Vancouver, Canada
-HOME PAGE Loaded TIME FOR = 9.8s
-Get URL Link for Home Page= https://gtmetrix.com/reports/slideteam.net/gY0TOv4o
-Get Current location from the home page= Dallas, USA
-HOME PAGE Loaded TIME FOR = 6.2s
-Get URL Link for Home Page= https://gtmetrix.com/reports/slideteam.net/4REEsXMW
